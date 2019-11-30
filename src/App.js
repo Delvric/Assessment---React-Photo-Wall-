@@ -7,7 +7,7 @@ const PHOTO_URL = photoId => `https://picsum.photos/id/${photoId}/200/200`;
 // about various photos.
 const PHOTO_LIST_URL = "https://picsum.photos/list";
 
-//
+
 
 
 class App extends Component {
